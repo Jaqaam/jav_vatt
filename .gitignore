@@ -1,4 +1,8 @@
 .idea/
 vatt/models/
 vatt/misc
+**/__pycache__/
+vatt/checkpoints/
+vatt/data/datasets/coco/
+vatt/data/datasets/kinetics400/
 *.pkl
